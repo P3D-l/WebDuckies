@@ -35,7 +35,7 @@
     <h1>Letsa go babies, have a nice and cozy hatch, Keep pippin you are doing great <3</h1>
     <p>Congrats Mr thing, Maxi and Goose!!!! You guys did it! Mommy and daddy are soooo prooooudd of ya xD</p>
     <p>(Don't make ya mommy worry like that never again tho, or no videogames for a month)</p>
-
+    <p>RIP Wanda, we love u and were sure youll be happy in ducky heaven</p>
     <img src="ducklings.jpg">
 
 </body>
