@@ -21,10 +21,10 @@
 }
 
 .button1 {border-radius: 9px;}
-.button1:hover{background-color: #f7f8a3;}
+.button1:hover{background-color: #bae1ff;}
 
 .button2 {border-radius: 9px;}
-.button2:hover{background-color: #f7f8a3;}
+.button2:hover{background-color: #bae1ff;}
 
     body{
         text-align: center;
