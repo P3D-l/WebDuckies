@@ -5,31 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+
+    <link href="styles/style.css" rel="stylesheet" />
 </head>
 <style>
-    .button {
-  background-color: #feffa3;
-  border: none;
-  color: #b45587;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-
-.button1 {border-radius: 9px;}
-.button1:hover{background-color: #bae1ff;}
-
-.button2 {border-radius: 9px;}
-.button2:hover{background-color: #bae1ff;}
-
-    body{
-        text-align: center;
-        text-align-last: center;
-    }
 </style>
 <button class = "button button1">Meet the Duckies</button> 
 <button class = "button button2">Drawings</button>
