@@ -6,13 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="styles/style.css" rel="stylesheet" />
 </head>
-<style>
-</style>
 <body>
-    <h1>Letsa go babies, have a nice and cozy hatch, Keep pippin you are doing great <3</h1>
+    <h1>Letsa go babies, congrats on the nice and cozy hatch <3</h1>
     <h2>
-    <button class = "button button1">Meet the Duckies</button> 
-    <button class = "button button2">Drawings</button>
+    <?php 
+    echo '<div class = "pill-nav">
+        <a class = "active" href = "#home">Home</a>
+        <a href = "#Meet the Duckies">Meet the Duckies</a>
+        <a href = "#Drawings">Drawings</s>
+    </div>'
+    ?>
     </h2>
     <p>Congrats Mr thing, Maxi, Goosea and Steven my boiii!!!!
     <br>You guys did it! Mommy and daddy are soooo prooooudd of ya xD
