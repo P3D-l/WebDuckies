@@ -7,6 +7,7 @@
     <link href="styles/style_drawings.css" rel="stylesheet"/>
 </head>
 <body>
+    <h1>Beutiful Duck Art to Warm Your Heart <3</h1>
     <h2>
     <?php 
     echo '<div class = "pill-nav">

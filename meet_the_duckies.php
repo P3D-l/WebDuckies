@@ -7,6 +7,7 @@
     <link href="styles/style_mtd.css" rel="stylesheet" />
 </head>
 <body>
+    <h1>Meet the cuties <3</h1>
     <h2>
     <?php 
     echo '<div class = "pill-nav">
