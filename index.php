@@ -21,6 +21,6 @@
     <br>You guys did it! Mommy and daddy are soooo prooooudd of ya xD
     <br>(Don't make ya mommy worry like that never again tho)
     <br>RIP Wanda, We love u and We're sure you're happy in ducky heaven</p>
-    <img src = "ducklings.jpg" width = "600" height = "400"class = "center">
+    <img src = "ducklings.jpg" width = "592" height = "392"class = "center">
 </body>
 </html>
