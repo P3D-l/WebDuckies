@@ -11,9 +11,9 @@
     <h2>
     <?php 
     echo '<div class = "pill-nav">
-        <a class = "active" href = "#home">Home</a>
-        <a href = "#Meet the Duckies">Meet the Duckies</a>
-        <a href = "#Drawings">Drawings</s>
+        <a href = "index.php">Home</a>
+        <a href = "meet_the_duckies.php">Meet the Duckies</a>
+        <a href = "drawings.php">Drawings</s>
     </div>'
     ?>
     </h2>
