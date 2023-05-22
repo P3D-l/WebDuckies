@@ -1,0 +1,22 @@
+body {
+    background-color: #bcc7ff;
+}
+
+h2 {
+    text-align: center;
+}
+
+.pill-nav a {
+    background-color: #feffa3;
+    border: none;
+    border-radius: 9px;
+    color: #b45587;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.pill-nav a:hover {background-color: #bae1ff;}

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="styles/style.css" rel="stylesheet" />
+    <link href="styles/style_index.css" rel="stylesheet" />
 </head>
 <body>
     <h1>Letsa go babies, congrats on the nice and cozy hatch <3</h1>

@@ -1,8 +1,20 @@
-echo '<div class = "buttons">
-        <form method = "POST" action = "drawings.php">
-            <input type = "submit" value = "Drawings"/>
-        </form>
-        <form method = "POST" action = "meet_the_duckies.php">
-            <input type = "submit" value = "Meet the Duckies"/>
-        </form>
-        </div>'
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styles/style_drawings.css" rel="stylesheet"/>
+</head>
+<body>
+<h2>
+    <?php 
+    echo '<div class = "pill-nav">
+        <a href = "index.php">Home</a>
+        <a href = "meet_the_duckies.php">Meet the Duckies</a>
+        <a href = "drawings.php">Drawings</s>
+    </div>'
+    ?>
+    </h2>
+</body>
+</html>
