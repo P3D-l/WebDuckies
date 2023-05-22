@@ -7,14 +7,20 @@
     <link href="styles/style_drawings.css" rel="stylesheet"/>
 </head>
 <body>
-<h2>
+    <h2>
     <?php 
     echo '<div class = "pill-nav">
         <a href = "index.php">Home</a>
         <a href = "meet_the_duckies.php">Meet the Duckies</a>
-        <a href = "drawings.php">Drawings</s>
+        <a href = "drawings.php">Drawings</a>
     </div>'
     ?>
     </h2>
+    <figure>
+    <img src="goose_digidraw.png" width="176" height="314">
+    <figcaption>Goose, by Dea
+    </figcaption>    
+    </figure>
+    
 </body>
 </html>

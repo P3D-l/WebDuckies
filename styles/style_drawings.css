@@ -20,3 +20,26 @@ h2 {
 }
 
 .pill-nav a:hover {background-color: #bae1ff;}
+
+figure {
+    background-color: #bae1ff;
+    border: thick #bae1ff solid;
+    border-radius: 9px;
+    border: thick #bae1ff solid;
+    display: flex;
+    flex-flow: column;
+    padding: 15px;
+    width: 50%;
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption {
+    text-align: center;
+    font-family: "cream DEMO";
+}
