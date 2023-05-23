@@ -19,9 +19,9 @@
     </h2>
     <figure>
     <img src="goose_digidraw.png" width="176" height="314">
-    <figcaption>Goose, by Dea
+    <figcaption>
+        Goose, by Dea
     </figcaption>    
     </figure>
-    
 </body>
 </html>
