@@ -9,11 +9,7 @@
 <body>
     <h1>Letsa go babies, congrats on the nice and cozy hatch <3</h1>
     <h2>
-    <div class = "pill-nav">
-        <a href = "index.php">Home</a>
-        <a href = "meet_the_duckies.php">Meet the Duckies</a>
-        <a href = "drawings.php">Drawings</a>
-    </div>
+    <?php include 'global_pill_nav.php'?>
     </h2>
     <p>Congrats Mr thing, Maxi, Goosea and Steven my boiii!!!!
     <br>You guys did it! Mommy and daddy are soooo prooooudd of ya xD

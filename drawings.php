@@ -9,11 +9,7 @@
 <body>
     <h1>Beutiful Duck Art to Warm Your Heart <3</h1>
     <h2> 
-    <div class = "pill-nav">
-        <a href = "index.php">Home</a>
-        <a href = "meet_the_duckies.php">Meet the Duckies</a>
-        <a href = "drawings.php">Drawings</a>
-    </div>
+    <?php include 'global_pill_nav.php'?>
     </h2>
     <figure>
     <img src="./images/goose_digidraw.png" width="176" height="314">
