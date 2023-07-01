@@ -10,9 +10,9 @@
     <h1>Meet the cuties <3</h1>
     <h2> 
     <div class = "pill-nav">
-        <a href = "index.html">Home</a>
-        <a href = "meet_the_duckies.html">Meet the Duckies</a>
-        <a href = "drawings.html">Drawings</a>
+        <a href = "index.php">Home</a>
+        <a href = "meet_the_duckies.php">Meet the Duckies</a>
+        <a href = "drawings.php">Drawings</a>
     </div>
     </h2>
     <figure>
